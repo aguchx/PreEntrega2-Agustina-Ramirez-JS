@@ -1,0 +1,15 @@
+
+body{
+    background-color: brown;
+    font-family: Helvetica, sans-serif;
+}
+
+#container{
+    background-color:#fff;
+    width: 600px;
+    margin: 150px auto;
+    padding: 20px;
+    justify-content: center;
+
+
+}
